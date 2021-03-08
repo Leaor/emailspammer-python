@@ -1,4 +1,4 @@
-# Email-spammer
+# Email-spammer (OutDated)
 
 Overview:
 
